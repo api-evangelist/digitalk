@@ -1,24 +1,67 @@
 aid: digitalk
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/digitalk.png
 name: Digitalk
-description: 'Digitalk is a company surfaced as a portfolio company of trinity-ventures and added to the
-  API Evangelist network as a stub for enrichment. Sector: enterprise-software. This profile is a lead
-  awaiting the enrichment pipeline.'
+description: 'Digitalk, Inc. was an American object-oriented software tools vendor and a Trinity Ventures
+  portfolio company, best known for Smalltalk/V — a commercial Smalltalk development environment first
+  released in 1986 for MS-DOS, preceded by "Digitalk Methods" in 1983. It was founded by George Bosworth,
+  Jim Anderson, Mike Teng and Barbara Noparstak, and its product line grew into Visual Smalltalk Enterprise.
+  In July 1995 Digitalk merged with its principal competitor ParcPlace Systems; the combined company was
+  later renamed ObjectShare, announced a shift away from Smalltalk toward Java in 1997, and active
+  development of the Digitalk line ended shortly after. The final release, Visual Smalltalk Enterprise
+  2000, shipped in September 2000. Cincom retains the right to sell and support VSE 2000 for existing
+  licensees and Seagull Software owns the virtual machine. Digitalk predates the public web API era and
+  operates no developer platform, public API, or live web presence today; this profile is retained as a
+  historical company record in the API Evangelist network.'
 url: https://raw.githubusercontent.com/api-evangelist/digitalk/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - trinity-ventures
 x-tier: stub
-x-tier-reason: portfolio-lead
+x-tier-reason: defunct-no-api-surface
+x-status: defunct
+x-successor: ObjectShare (ParcPlace-Digitalk); Visual Smalltalk Enterprise supported by Cincom
+x-founded: '1983'
+x-acquired: '1995-07'
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
 - Enterprise Software
+- Developer Tools
+- Programming Languages
+- Smalltalk
+- Object Oriented
+- Integrated Development Environment
+- Defunct
+- Historical
 apis: []
+common:
+- type: Reference
+  name: Smalltalk/V and Visual Smalltalk Enterprise (Wikipedia)
+  url: https://en.wikipedia.org/wiki/Smalltalk/V
+- type: Reference
+  name: Trinity Ventures portfolio listing
+  url: https://www.trinityventures.com/portfolio
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 0
+  pass: local-v1
