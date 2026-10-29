@@ -64,15 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Digitalk, Inc. was an American object-oriented software tools vendor and a Trinity Ventures portfolio company, best known for **Smalltalk/V** — a commercial Smalltalk development environment first released in 1986 for MS-DOS, preceded by "Digitalk Methods" in 1983. It was founded by George Bosworth, Jim Anderson, Mike Teng and Barbara Noparstak, and the product line grew into **Visual Smalltalk Enterprise**.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-In July 1995 Digitalk merged with its principal competitor ParcPlace Systems; the combined company was later renamed **ObjectShare**, announced a shift away from Smalltalk toward Java in 1997, and active development of the Digitalk line ended shortly after. The final release, Visual Smalltalk Enterprise 2000, shipped in September 2000. Cincom retains the right to sell and support VSE 2000 for existing licensees, and Seagull Software owns the virtual machine.
+Digitalk, Inc. was an American object-oriented software tools vendor and a Trinity Ventures portfolio company, best known for Smalltalk/V — a commercial Smalltalk development environment first released in 1986 for MS-DOS, preceded by "Digitalk Methods" in 1983. It was founded by George Bosworth, Jim Anderson, Mike Teng and Barbara Noparstak, and its product line grew into Visual Smalltalk Enterprise. In July 1995 Digitalk merged with its principal competitor ParcPlace Systems; the combined company was later renamed ObjectShare, announced a shift away from Smalltalk toward Java in 1997, and active development of the Digitalk line ended shortly after. The final release, Visual Smalltalk Enterprise 2000, shipped in September 2000. Cincom retains the right to sell and support VSE 2000 for existing licensees and Seagull Software owns the virtual machine. Digitalk predates the public web API era and operates no developer platform, public API, or live web presence today; this profile is retained as a historical company record in the API Evangelist network.
 
-## API surface
+**Areas:** Company · Enterprise Software · Developer Tools · Programming Language · Smalltalk · Object-Oriented · Integrated Development Environment · Defunct · Historical
 
-**None.** Digitalk predates the public web API era, was acquired in 1995, and operates no developer platform, public API, documentation site, or live web presence today. The enrichment pipeline ran on 2026-07-20 and found no API, no owned domain, and no artifact surface to harvest — an honest empty result, not a gap to be filled.
+## Digitalk on APIs.io (historical record)
 
-Domains checked and rejected as unrelated to this company: `digitalk.com` (captcha-walled, unrelated owner), `digitalk.net` (parked domain lander), `digitalk.io`, `digitalk.ai`, `digitalk.co.uk` (no resolution).
+Everything profiled for Digitalk is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/digitalk/](https://apis.io/providers/digitalk/)** — or go straight to one of the APIs or properties below.
 
-Backed by: trinity-ventures
-Status: defunct (acquired 1995-07; successor ObjectShare)
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Digitalk: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/digitalk/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
